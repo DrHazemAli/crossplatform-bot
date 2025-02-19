@@ -1,9 +1,6 @@
 # Multi-Platform Chatbot System
 ### A Product of DeepCoder by Skytells, Inc.
 
-<p align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="DeepCoder Logo" width="200"/>
-</p>
 
 ## Overview
 A powerful, multi-platform chatbot system that integrates with major messaging platforms including Facebook Messenger, WhatsApp, Instagram, Telegram, TikTok, and Discord. Built with AI capabilities powered by OpenAI's GPT models.
@@ -162,9 +159,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## About DeepCoder
 DeepCoder is a product of Skytells, Inc., specializing in AI-powered development tools and solutions. Visit [Skytells Website](https://skytells.io) for more information.
-
-## Support
-For support, email support@skytells.com or join our [Discord Community](https://discord.gg/skytells).
 
 ---
 © 2024 Skytells, Inc. All rights reserved.
